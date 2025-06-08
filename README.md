@@ -1,2 +1,2 @@
-# 2T-Spawner
-An open source C# program used to spwan anime images
+# Senren*Banka - AUMod
+An open source C# mod for Among Us and dressed up Senren*Banka
